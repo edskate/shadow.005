@@ -1,0 +1,15 @@
+h1{
+    background-color: lawngreen;
+    box-shadow: inset 3px 4px 5px ;
+    text-align: center;
+}
+h2{
+    background-color: mediumslateblue;
+    box-shadow: inset 2px 3px 4px ;
+    text-align: center;
+}
+h3{
+    background-color: darkred;
+    box-shadow: inset 2px 4px 5px ;
+    text-align: center;
+}
